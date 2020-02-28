@@ -2,3 +2,10 @@ jupyterlab
 Cython
 geopandas 
 ipyleaflet
+rdflib 
+requests
+geopandas
+geodaisy 
+pyproj 
+shapely 
+geomet 
