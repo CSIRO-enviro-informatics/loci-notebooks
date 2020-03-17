@@ -1,6 +1,4 @@
-jupyterlab
 Cython
-geopandas 
 ipyleaflet
 rdflib 
 requests

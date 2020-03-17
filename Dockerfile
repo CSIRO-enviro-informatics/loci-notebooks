@@ -1,8 +1,7 @@
-# Copyright (c) Jupyter Development Team.
-# Distributed under the terms of the Modified BSD License.
+FROM jupyter/minimal-notebook
 
-# Pick your favorite docker-stacks image
-FROM jupyter/minimal-notebook:2d125a7161b5
+USER root
+RUN apt-get install  -y build-essential gcc
 
 USER jovyan
 
@@ -11,6 +10,7 @@ USER jovyan
 # e.g., RUN pip install jupyter_dashboards
 COPY requirements.txt /tmp/
 RUN ls /tmp
+RUN pip install -U pip
 RUN pip install -r /tmp/requirements.txt 
 
 USER root
