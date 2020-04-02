@@ -1,4 +1,6 @@
-FROM jupyter/minimal-notebook
+ARG JUPYTER_IMAGE=jupyter/minimal-notebook
+FROM $JUPYTER_IMAGE
+#FROM jupyter/minimal-notebook
 
 USER root
 RUN apt-get install  -y build-essential gcc

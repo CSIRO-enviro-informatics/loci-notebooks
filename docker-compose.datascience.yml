@@ -1,0 +1,15 @@
+version: "3"
+services:
+  notebook:
+    build: 
+       context: .
+       dockerfile: Dockerfile
+       args:
+          JUPYTER_IMAGE: jupyter/datascience-notebook:latest
+    image: loci-notebook
+    container_name: ${NAME}
+    volumes:
+     - ".:/home/jovyan/work"
+    ports:
+      - "${PORT:-8888}:8888"
+
