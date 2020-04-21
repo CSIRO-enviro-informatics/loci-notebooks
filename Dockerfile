@@ -3,7 +3,9 @@ FROM $JUPYTER_IMAGE
 #FROM jupyter/minimal-notebook
 
 USER root
-RUN apt-get install  -y build-essential gcc
+RUN apt-get install -y build-essential gcc
+RUN apt-get update
+RUN apt-get install -y  libpq-dev python-dev
 
 USER jovyan
 
