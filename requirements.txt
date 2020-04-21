@@ -7,3 +7,4 @@ geodaisy
 pyproj 
 shapely 
 geomet 
+psycopg2-binary
