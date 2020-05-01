@@ -1,3 +1,8 @@
-LGA,Count
-http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/44000,100
-http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/55880,200
+LGA,"Estimated Agricultural Area","Estimated value 2016"
+http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/55880,608800,118073000
+http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/40070,144111000,39100
+http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/50080,254500,142090000
+http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/10050,18900,5195000
+http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/20110,74100,55850000
+
+
