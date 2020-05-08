@@ -3,7 +3,9 @@ FROM $JUPYTER_IMAGE
 #FROM jupyter/minimal-notebook
 
 USER root
-RUN apt-get install  -y build-essential gcc
+RUN apt-get install -y build-essential gcc
+RUN apt-get update
+RUN apt-get install -y  libpq-dev python-dev
 
 USER jovyan
 
@@ -14,6 +16,11 @@ COPY requirements.txt /tmp/
 RUN ls /tmp
 RUN pip install -U pip
 RUN pip install -r /tmp/requirements.txt 
+
+# Add notebooks to the docker image
+COPY *.ipynb /home/jovyan/
+COPY *.csv /home/jovyan/
+
 
 USER root
 
