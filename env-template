@@ -1,0 +1,3 @@
+SPARQL_ENDPOINT=http://db.loci.cat/repositories/loci-cache
+DGGS_DB_USER=user
+DGGS_DB_PASS=changeme
