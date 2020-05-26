@@ -6,6 +6,12 @@ Using a minimal docker stack (python only)
 ```
 $ docker-compose up -d --build
 ```
+
+Using a minimal docker stack (python only) using docker image (no building)
+```
+$ docker-compose -f docker-compose.useimages.yml up -d 
+```
+
 Running `docker-compose logs` should give you the session token to use to login via http://localhost:888
 
 To stop the notebook server:
