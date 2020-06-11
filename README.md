@@ -1,6 +1,11 @@
 # loci-notebooks
 Jupyter notebooks for Loc-I
 
+## Pre-requisites
+* docker
+* docker-compose
+
+
 ## Quickstart
 Using a minimal docker stack (python only)
 ```
