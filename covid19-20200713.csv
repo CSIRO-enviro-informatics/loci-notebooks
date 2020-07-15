@@ -1,0 +1,10 @@
+LGA,LGA ID,Confirmed cases (ever),Active cases (current)
+HUME,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/23270,416,222
+MELBOURNE,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24600,312,217
+WYNDHAM,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/27260,306,209
+BRIMBANK,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21180,271,127
+MOONEE VALLEY,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25060,271,178
+MORELAND,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25250,200,88
+CASEY,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21610,144,23
+BANYULE,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/20660,140,42
+WHITTLESEA,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/27070,137,64
