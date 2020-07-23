@@ -1,0 +1,80 @@
+﻿LGA,LGA_ID,LGA_URI,Confirmed cases (ever),Active cases (current)
+ALPINE,20110,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/20110,1,0
+ARARAT,20260,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/20260,5,0
+BALLARAT,20570,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/20570,20,9
+BANYULE,20660,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/20660,242,130
+BASS COAST,20740,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/20740,6,1
+BAW BAW,20830,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/20830,8,3
+BAYSIDE,20910,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/20910,51,15
+BENALLA,21010,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21010,3,0
+BOROONDARA,21110,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21110,129,43
+BRIMBANK,21180,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21180,495,289
+BULOKE,21270,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21270,0,0
+CAMPASPE,21370,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21370,5,0
+CARDINIA,21450,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21450,45,18
+CASEY,21610,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21610,240,103
+CENTRAL GOLDFIELDS,21670,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21670,1,0
+COLAC OTWAY,21750,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21750,27,27
+CORANGAMITE,21830,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21830,2,1
+DAREBIN,21890,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/21890,168,88
+EAST GIPPSLAND,22110,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22110,2,1
+FRANKSTON,22170,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22170,55,12
+GANNAWARRA,22250,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22250,2,0
+GLEN EIRA,22310,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22310,78,18
+GLENELG,22410,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22410,4,3
+GOLDEN PLAINS,22490,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22490,9,8
+GREATER BENDIGO,22620,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22620,14,4
+GREATER DANDENONG,22670,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22670,76,44
+GREATER GEELONG,22750,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22750,90,18
+GREATER SHEPPARTON,22830,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22830,17,2
+HEPBURN,22910,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22910,2,0
+HINDMARSH,22980,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/22980,0,0
+HOBSONS BAY,23110,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/23110,113,65
+HORSHAM,23190,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/23190,7,4
+HUME,23270,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/23270,626,308
+INDIGO,23350,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/23350,0,0
+KINGSTON,23430,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/23430,63,26
+KNOX,23670,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/23670,42,14
+LATROBE,23810,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/23810,12,3
+LODDON,23940,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/23940,4,1
+MACEDON RANGES,24130,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24130,14,4
+MANNINGHAM,24210,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24210,82,39
+MANSFIELD,24250,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24250,4,1
+MARIBYRNONG,24330,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24330,161,95
+MAROONDAH,24410,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24410,31,13
+MELBOURNE,24600,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24600,462,272
+MELTON,24650,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24650,233,135
+MILDURA,24780,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24780,5,0
+MITCHELL,24850,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24850,34,14
+MOIRA,24900,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24900,11,0
+MONASH,24970,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/24970,99,37
+MOONEE VALLEY,25060,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25060,402,212
+MOORABOOL,25150,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25150,8,5
+MORELAND,25250,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25250,349,191
+MORNINGTON PENINSULA,25340,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25340,76,11
+MOUNT ALEXANDER,25430,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25430,6,0
+MOYNE,25490,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25490,1,0
+MURRINDINDI,25620,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25620,2,0
+NILLUMBIK,25710,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25710,41,11
+NORTHERN GRAMPIANS,25810,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25810,3,0
+PORT PHILLIP,25900,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25900,97,34
+PYRENEES,25990,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/25990,0,0
+QUEENSCLIFFE,26080,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26080,0,0
+SOUTH GIPPSLAND,26170,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26170,8,3
+SOUTHERN GRAMPIANS,26260,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26260,2,0
+STONNINGTON,26350,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26350,146,38
+STRATHBOGIE,26430,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26430,2,0
+SURF COAST,26490,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26490,13,4
+SWAN HILL,26610,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26610,5,1
+TOWONG,26670,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26670,0,0
+WANGARATTA,26700,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26700,2,0
+WARRNAMBOOL,26730,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26730,5,0
+WELLINGTON,26810,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26810,13,0
+WEST WIMMERA,26890,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26890,1,0
+WHITEHORSE,26980,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/26980,82,48
+WHITTLESEA,27070,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/27070,270,166
+WODONGA,27170,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/27170,1,0
+WYNDHAM,27260,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/27260,588,370
+YARRA,27350,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/27350,183,119
+YARRA RANGES,27450,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/27450,38,8
+YARRIAMBIACK,27630,http://linked.data.gov.au/dataset/asgs2016/localgovernmentarea/27630,1,0
