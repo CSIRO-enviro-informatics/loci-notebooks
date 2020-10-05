@@ -1,4 +1,8 @@
 # loci-notebooks
+
+[![Build Status](https://travis-ci.org/CSIRO-enviro-informatics/loci-notebooks.svg?branch=master)](https://travis-ci.org/CSIRO-enviro-informatics/loci-notebooks)
+
+
 Jupyter notebooks for Loc-I
 
 ## Pre-requisites
