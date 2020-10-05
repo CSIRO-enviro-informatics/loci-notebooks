@@ -4,4 +4,4 @@ channels:
 dependencies:
 - python=3.6
 - notebook=6.1.4
-- pytest==6.1.1
+- pytest==6.1.0
