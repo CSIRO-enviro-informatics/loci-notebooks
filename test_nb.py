@@ -10,5 +10,5 @@ def _exec_notebook(path):
 
 
 def test_notebook(notebook_to_test):
-    print(notebook_to_test)
+    #print(notebook_to_test)
     _exec_notebook(notebook_to_test)
