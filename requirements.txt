@@ -11,3 +11,4 @@ psycopg2-binary
 python-dotenv
 pyloci==0.1.2
 geojson
+ipycytoscape
