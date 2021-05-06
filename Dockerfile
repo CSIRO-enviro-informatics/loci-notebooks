@@ -23,6 +23,11 @@ COPY *.csv /home/jovyan/
 COPY env-template /home/jovyan/.env
 
 
+RUN jupyter contrib nbextension install --user
+RUN jupyter nbextensions_configurator enable --user
+
+
+
 USER root
 
 # Add permanent apt-get installs and other root commands here
