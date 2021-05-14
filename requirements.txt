@@ -14,3 +14,6 @@ geojson
 ipycytoscape
 jupyter_contrib_nbextensions
 itables
+numpy
+pandas
+tdqm
