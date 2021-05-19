@@ -1,7 +1,7 @@
 # loci-notebooks
 
 [![Build Status](https://travis-ci.org/CSIRO-enviro-informatics/loci-notebooks.svg?branch=master)](https://travis-ci.org/CSIRO-enviro-informatics/loci-notebooks)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CSIRO-enviro-informatics/loci-notebooks/time-demo)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CSIRO-enviro-informatics/loci-notebooks/HEAD)
 
 
 Jupyter notebooks for Loc-I
