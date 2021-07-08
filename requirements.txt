@@ -10,3 +10,7 @@ geomet
 psycopg2-binary
 python-dotenv
 pyloci==0.1.2
+git+https://github.com/GeoscienceAustralia/AusPIX_DGGS.git
+geojson
+pygeoj
+numba
