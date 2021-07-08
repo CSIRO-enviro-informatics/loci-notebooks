@@ -36,7 +36,7 @@ RUN jupyter nbextension enable toggle_all_line_numbers/main
 # Add notebooks to the docker image
 COPY *.ipynb /home/jovyan/
 COPY *.csv /home/jovyan/
-COPY *.json /home/jovyan/
+#COPY *.json /home/jovyan/
 COPY *.geojson /home/jovyan/
 COPY env-template /home/jovyan/.env
 
