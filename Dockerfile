@@ -19,6 +19,7 @@ RUN pip install -r /tmp/requirements.txt
 
 # Add notebooks to the docker image
 COPY *.ipynb /home/jovyan/
+COPY time-demo /home/jovyan/time-demo
 COPY *.csv /home/jovyan/
 COPY env-template /home/jovyan/.env
 
